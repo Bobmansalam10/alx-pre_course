@@ -1,2 +1,1 @@
-my second readme
-my first and only github update
+my second readme updated
